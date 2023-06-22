@@ -1,3 +1,3 @@
 # PasswordGrader
 
-very simple password grader using re.
+password grader using re.
